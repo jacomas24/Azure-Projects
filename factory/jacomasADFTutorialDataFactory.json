@@ -1,0 +1,9 @@
+{
+	"name": "jacomasADFTutorialDataFactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a6f2831-3647-4686-8f75-70e92c7fb4a6",
+		"tenantId": "e757cfdd-1f35-4457-af8f-7c9c6b1437e3"
+	}
+}
